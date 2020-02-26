@@ -1,2 +1,2 @@
-my unberatable tictactoe game
+my unbeatable tictactoe game
 this is my tutorial app
